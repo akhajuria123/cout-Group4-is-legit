@@ -1,5 +1,5 @@
-#ifndef HEADER_H_
-#define HEADER_H_
+#ifndef AGILEHEADER_H_
+#define AGILEHEADER_H_
 
 //Preprocessor Directives
 #include <iostream>
@@ -10,4 +10,4 @@ using namespace std;
 //Prototypes
 void name1();
 
-#endif // !HEADER_H_
+#endif // !AGILEHEADER_H_
