@@ -1,5 +1,4 @@
-#include <iostream>
-using namespace std;
+#include "agileHeader.h"
 
 void name1()
 {
