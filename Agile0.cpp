@@ -15,7 +15,10 @@ void printMyName(){
 	return;
 }
    
-   
+void name_3()
+{
+	cout << "Connor Redemske\n" << endl;
+}
 
 
 int main()
@@ -24,7 +27,7 @@ int main()
 
 name_1();
 printMyName();
-
+name_3();
 
 
 
