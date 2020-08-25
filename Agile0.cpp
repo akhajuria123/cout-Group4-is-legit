@@ -20,6 +20,7 @@ void name_3()
 	cout << "Connor Redemske\n" << endl;
 }
 
+//Prints "Jared Amaral"
 void name_4()
 {
 	cout << "Jared Amaral\n";
