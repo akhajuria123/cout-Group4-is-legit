@@ -28,5 +28,7 @@ printMyName();
 
 
 
+cout << endl << endl << "Thanks for using our program." << endl;
+
 return 0;
 }
