@@ -20,6 +20,10 @@ void name_3()
 	cout << "Connor Redemske\n" << endl;
 }
 
+void name_4()
+{
+	cout << "Jared Amaral\n";
+}
 
 int main()
 {
@@ -28,6 +32,7 @@ int main()
 name_1();
 printMyName();
 name_3();
+name_4();
 
 
 
