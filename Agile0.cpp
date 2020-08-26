@@ -1,7 +1,11 @@
 
 #include "feature1.h"
 
-
+name_1(){
+ 
+  cout << endl << "Ansih Khajuria \n" << endl;
+  
+}
 int main()
 {
 
