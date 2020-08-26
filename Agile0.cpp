@@ -1,16 +1,5 @@
-#include <iostream>
-#include <Windows.h>
+
 #include "feature1.h"
-
-using namespace std;
-
-void name_1()
-{
-cout << "Anish Khajuria \n" << endl;
-
-
-
-}
 
 
 int main()
@@ -19,7 +8,7 @@ int main()
 cout << "Agile 0 Group 4: " << endl << endl;
 
 name_1();
-printMyName();
+name_2();
 name_3();
 name_4();
 
