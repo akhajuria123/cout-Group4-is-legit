@@ -1,37 +1,18 @@
-#include <iostream>
-#include<Windows.h>
-using namespace std;
 
-void name_1()
-{
-cout << "Anish Khajuria \n" << endl;
+#include "feature1.h"
 
-
-
+name_1(){
+ 
+  cout << endl << "Ansih Khajuria \n" << endl;
+  
 }
-
-void printMyName(){
-	cout << "Matthew McCullough\n\n";
-	return;
-}
-   
-void name_3()
-{
-	cout << "Connor Redemske\n" << endl;
-}
-
-//Prints "Jared Amaral"
-void name_4()
-{
-	cout << "Jared Amaral\n";
-}
-
 int main()
 {
 
+cout << "Agile 0 Group 4: " << endl << endl;
 
 name_1();
-printMyName();
+name_2();
 name_3();
 name_4();
 
