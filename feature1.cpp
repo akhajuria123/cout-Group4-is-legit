@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void printMyName(){
+void name_2(){
     cout << "Matthew McCullough\n\n";
     return;
 }
