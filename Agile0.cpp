@@ -3,7 +3,7 @@
 
 name_1(){
  
-  cout << endl << "Ansih Khajuria \n" << endl;
+  cout << endl << "Anish Khajuria \n" << endl;
   
 }
 int main()
